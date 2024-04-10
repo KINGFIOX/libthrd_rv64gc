@@ -60,3 +60,4 @@ thrd_join();
 - [x] thrd2 通过（范例）
 - [x] thrd3 通过（范例）
 - [x] thrd4 通过（范例）
+- [x] thrd5 通过（范例）
